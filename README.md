@@ -1,7 +1,7 @@
 Hola!  Soy Vivi 👋
 💫 
 # 💫
-Me puedes llamar Vivi ..<br>soy desarrolladora web estudiante de laboratoria<br>aprendiz de por vida<br>abrazando la incertidumbre de los nuevos proyectos, me encuentro desarrollando movie challenge con React<br>amo los animales (tengo 3 michis)  y la naturaleza<br> la bicicleta es mi hobbie<br>mi lugar favorito la playa
+Me puedes llamar Vivi ..<br>soy desarrolladora web estudiante de laboratoria<br>aprendiz de por vida<br>abrazando la incertidumbre de los nuevos proyectos, me encuentro desarrollando movie challenge con React<br>soy Tecnico veterinaria amo los animales (tengo 3 michis)  y la naturaleza<br> la bicicleta es mi hobbie<br>mi lugar favorito la playa junto a l@s que amo
 
 
 ## 🌐 Socials:
