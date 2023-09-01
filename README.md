@@ -1,16 +1,30 @@
-### Hi there 👋
+Hola!  Soy Vivi 👋
+💫 About Me:
+Me puedes llamar Vivi …
+soy desarrolladora web
+aprendiz de por vida
+abrazando la incertidumbre de los nuevos proyectos
+amo los animales y la naturaleza
+
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+CSS3 HTML5 JavaScript Firebase NPM GitHub React Figma Trello GIT
+
+📊 GitHub Stats:
 
 
-**Vivyta/Vivyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
+
+
+
+
+- 📫 
