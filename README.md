@@ -1,6 +1,6 @@
 Hola!  Soy Vivi 👋
 💫 
-# 💫 About Me:
+# 💫
 Me puedes llamar Vivi ..<br>soy desarrolladora web<br>aprendiz de por vida<br>abrazando la incertidumbre de los nuevos proyectos<br>amo los animales y la naturaleza<br>
 
 
